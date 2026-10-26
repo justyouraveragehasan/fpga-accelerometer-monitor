@@ -1,0 +1,15 @@
+# Vivado project / build artifacts
+*.jou
+*.log
+*.str
+*.dcp
+*.bit
+*.ltx
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+vivado*.backup.*
